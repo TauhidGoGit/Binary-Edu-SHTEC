@@ -11,6 +11,8 @@
     border-width: 2px;
     border-color: black;
     background-color: rgb(229, 238, 235);
+    margin-top: 35px;
+    
 }
 .sec{
     text-align: center;
@@ -20,4 +22,16 @@
 }
 .pad1{
     padding-bottom: 5px;
+}
+.im{
+    width: 250px;
+    height: 250px;
+    margin-left: 600px;
+    margin-top: 5px;
+    position: relative;
+}
+.siz{
+    margin-left: 15px;
+    position: absolute;
+
 }
