@@ -35,3 +35,14 @@
     position: absolute;
 
 }
+@media (max-width: 760px) {
+    .im{
+        position:relative;
+    }
+}
+
+@media (min-width: 760px) {
+    .im{
+        flex-direction: column;
+    }
+}
