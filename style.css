@@ -24,25 +24,15 @@
     padding-bottom: 5px;
 }
 .im{
-    width: 250px;
-    height: 250px;
-    margin-left: 600px;
+    width: 200px;
+    height: 200px;
+    margin-left: 120px;
     margin-top: 5px;
-    position: relative;
+    margin-bottom: 10px;
+   position: relative;
 }
 .siz{
     margin-left: 15px;
     position: absolute;
 
-}
-@media (max-width: 760px) {
-    .im{
-        position:relative;
-    }
-}
-
-@media (min-width: 760px) {
-    .im{
-        flex-direction: column;
-    }
 }
