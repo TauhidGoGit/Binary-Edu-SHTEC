@@ -23,14 +23,7 @@
 .pad1{
     padding-bottom: 5px;
 }
-.im{
-    width: 150px;
-    height: 150px;
-    margin-left: 0 px;
-    margin-top: 160px;
-    margin-bottom: 5px;
-   position: relative;
-}
+
 .siz{
     margin-left: 15px;
     position: absolute;
